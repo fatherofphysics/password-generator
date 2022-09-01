@@ -1,6 +1,6 @@
-Password Generator
+# Password Generator
 
-How to Use:
+### How to Use:
 
 1. Have an uptodate pip or pip3
 
@@ -24,4 +24,4 @@ and hit generate password button
 
 8. Please fork this and hit star button.
 
-Thank you for reading this-- Vedant kanoujia
+##### Thank you for reading this-- Vedant kanoujia
